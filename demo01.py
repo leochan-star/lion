@@ -35,6 +35,5 @@
 # b=a.pop('name')
 # print(b)
 # del a['name']
-# print(a)
 a = {'name':'阿兰','age':25,'sex':'female'}
 print(a['name'],a['age'],a['sex'])
