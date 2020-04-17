@@ -37,3 +37,4 @@
 # del a['name']
 a = {'name':'阿兰','age':25,'sex':'female'}
 print(a['name'],a['age'],a['sex'])
+.....
